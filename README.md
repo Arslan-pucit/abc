@@ -19,6 +19,7 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 
 
 #### <span>Connect with me</span>
+
 <div style="display: flex; align-items: center; padding: 10px;">
   <a href="https://yourwebsite.com" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/ios-filled/20/000000/domain.png" alt="Website Icon" style="vertical-align: middle;"/>
