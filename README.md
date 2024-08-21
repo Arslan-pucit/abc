@@ -18,34 +18,16 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 </div>
 
 
-#### <span>Connect with me</span>
+#### Connect with me
 
-<div style="display: flex; align-items: center; padding: 10px;">
-  <a href="https://yourwebsite.com" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/20/000000/domain.png" alt="Website Icon" style="vertical-align: middle;"/>
-    <span style="margin-left: 5px;">Website</span>
-  </a>
-  <div style="margin: 0 15px;">&#8226;</div>
-  <a href="https://youtube.com/yourchannel" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/20/FF0000/youtube-play.png" alt="YouTube Icon" style="vertical-align: middle;"/>
-    <span style="margin-left: 5px;">YouTube</span>
-  </a>
-  <div style="margin: 0 15px;">&#8226;</div>
-  <a href="https://www.linkedin.com/in/yourprofile" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png" alt="LinkedIn Icon" style="vertical-align: middle;"/>
-    <span style="margin-left: 5px;">LinkedIn</span>
-  </a>
-  <div style="margin: 0 15px;">&#8226;</div>
-  <a href="https://instagram.com/yourprofile" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/20/E4405F/instagram-new.png" alt="Instagram Icon" style="vertical-align: middle;"/>
-    <span style="margin-left: 5px;">Instagram</span>
-  </a>
-  <div style="margin: 0 15px;">&#8226;</div>
-  <a href="https://twitter.com/yourusername" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-filled/20/1DA1F2/twitter.png" alt="Twitter Icon" style="vertical-align: middle;"/>
-    <span style="margin-left: 5px;">Twitter</span>
-  </a>
-</div>
+<p align="center">
+  <a href="https://yourwebsite.com"><img src="https://img.icons8.com/ios-filled/20/000000/domain.png" alt="Website Icon" /></a> • 
+  <a href="https://youtube.com/yourchannel"><img src="https://img.icons8.com/ios-filled/20/FF0000/youtube-play.png" alt="YouTube Icon" /></a> • 
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png" alt="LinkedIn Icon" /></a> • 
+  <a href="https://instagram.com/yourprofile"><img src="https://img.icons8.com/ios-filled/20/E4405F/instagram-new.png" alt="Instagram Icon" /></a> • 
+  <a href="https://twitter.com/yourusername"><img src="https://img.icons8.com/ios-filled/20/1DA1F2/twitter.png" alt="Twitter Icon" /></a>
+</p>
+
 
 ## 💻 Tech Stack
 
