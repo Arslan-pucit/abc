@@ -18,15 +18,28 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 </div>
 
 
-#### Connect with me
+<h3 align="left">Connect with me:</h3>
 
-<p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.icons8.com/ios-filled/20/000000/domain.png" alt="Website Icon" /></a> • 
-  <a href="https://youtube.com/yourchannel"><img src="https://img.icons8.com/ios-filled/20/FF0000/youtube-play.png" alt="YouTube Icon" /></a> • 
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/ios-filled/20/0077B5/linkedin.png" alt="LinkedIn Icon" /></a> • 
-  <a href="https://instagram.com/yourprofile"><img src="https://img.icons8.com/ios-filled/20/E4405F/instagram-new.png" alt="Instagram Icon" /></a> • 
-  <a href="https://twitter.com/yourusername"><img src="https://img.icons8.com/ios-filled/20/1DA1F2/twitter.png" alt="Twitter Icon" /></a>
-</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start; align-items: center;">
+  <a href="https://yourwebsite.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139" alt="Website" style="height: 20px;"/>
+  </a>
+  <a href="https://youtube.com/yourchannel" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" style="height: 20px;"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 20px;"/>
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="height: 20px;"/>
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" style="height: 20px;"/>
+  </a>
+</div>
+
+
 
 
 ## 💻 Tech Stack
@@ -69,93 +82,23 @@ Let's connect 🤝 and explore🌍 how we can collaborate to advance the frontie
 
 
 ## 💻 Technical Proficiencies
-<div style="display: flex; flex-direction: column; align-items: left; padding: 10px;">
-   <!-- Data Science Frameworks & Libraries Category -->
-  <div style="margin-bottom: 20px; width: 100%; max-width: 600px;">
-    <div style="display: flex; align-items: center; flex-wrap: wrap;">
-      <strong style="font-size: 14px; margin-right: 10px;">Data Science Frameworks & Libraries:</strong>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <div>OpenCV</div>
-        <div>Keras</div>
-        <div>Matplotlib</div>
-        <div>NumPy</div>
-        <div>Pandas</div>
-        <div>Plotly</div>
-        <div>PyTorch</div>
-        <div>scikit-learn</div>
-        <div>TensorFlow</div>
-        <div>SciPy</div>
-      </div>
-    </div>
-  </div>
+### Data Science Frameworks & Libraries: 
+<p>OpenCV, Keras, Matplotlib, NumPy, Pandas, Plotly, PyTorch, scikit-learn, TensorFlow, SciPy</p>
 
-  <!-- Languages Category -->
-  <div style="margin-bottom: 20px; width: 100%; max-width: 600px;">
-    <div style="display: flex; align-items: center; flex-wrap: wrap;">
-      <strong style="font-size: 14px; margin-right: 10px;">Languages:</strong>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <div>HTML5</div>
-        <div>CSS3</div>
-        <div>C++</div>
-        <div>Python</div>
-        <div>R</div>
-        <div>JavaScript</div>
-      </div>
-    </div>
-  </div>
+### Languages: 
+<p>HTML5, CSS3, C++, Python, R, JavaScript</p>
 
-  <!-- Web Frameworks Category -->
-  <div style="margin-bottom: 20px; width: 100%; max-width: 600px;">
-    <div style="display: flex; align-items: center; flex-wrap: wrap;">
-      <strong style="font-size: 14px; margin-right: 10px;">Web Frameworks:</strong>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <div>React</div>
-        <div>Django</div>
-        <div>FastAPI</div>
-        <div>Flask</div>
-      </div>
-    </div>
-  </div>
+### Web Frameworks: 
+<p>React, Django, FastAPI, Flask</p>
 
-  <!-- Databases Category -->
-  <div style="margin-bottom: 20px; width: 100%; max-width: 600px;">
-    <div style="display: flex; align-items: center; flex-wrap: wrap;">
-      <strong style="font-size: 14px; margin-right: 10px;">Databases:</strong>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <div>MySQL</div>
-        <div>SQLite</div>
-        <div>Postgres</div>
-        <div>Microsoft SQL Server</div>
-      </div>
-    </div>
-  </div>
+### Databases: 
+<p>MySQL, SQLite, Postgres, Microsoft SQL Server</p>
 
-  <!-- Tools & Platforms Category -->
-  <div style="margin-bottom: 20px; width: 100%; max-width: 600px;">
-    <div style="display: flex; align-items: center; flex-wrap: wrap;">
-      <strong style="font-size: 14px; margin-right: 10px;">Tools & Platforms:</strong>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <div>Docker</div>
-        <div>Postman</div>
-        <div>Anaconda</div>
-      </div>
-    </div>
-  </div>
+### Tools & Platforms: 
+<p>Docker, Postman, Anaconda</p>
 
-  <!-- Cloud Services Category -->
-  <div style="margin-bottom: 20px; width: 100%; max-width: 600px;">
-    <div style="display: flex; align-items: center; flex-wrap: wrap;">
-      <strong style="font-size: 14px; margin-right: 10px;">Cloud Services:</strong>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <div>Heroku</div>
-        <div>Firebase</div>
-        <div>Google Cloud</div>
-        <div>Google Colab</div>
-      </div>
-    </div>
-  </div>
-</div>
-
+### Cloud Services: 
+<p>Heroku, Firebase, Google Cloud, Google Colab</p>
 
 ## 🔝 Top Contributed Repo
 <ul style="list-style-type: none; padding: 0;">
